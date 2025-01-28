@@ -3,18 +3,16 @@
 # Data Analysis Project
 
 ## 📊 Project Overview
-This project is a comprehensive data analysis of [dataset/topic], showcasing various techniques for data cleaning, visualization, and insights extraction. All the code and analysis are in a single Jupyter Notebook.
+This project is a comprehensive data analysis of Atliq Hotels, showcasing various techniques for data cleaning, visualization, and insights extraction. All the code and analysis are in a single Jupyter Notebook.
 
 ## 🛠️ Features
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
 - Visualization of key insights
-- Statistical analysis and hypothesis testing
-- Machine learning (if applicable)
 
 ## 📁 Files in the Repository
-- **`data_analysis.ipynb`**: The main notebook containing all the analysis and code.
-- (Optional) **`dataset.csv`**: The dataset used for the project (if you're sharing it).
+- **`Analysis.ipynb`**: The main notebook containing all the analysis and code.
+- **`datasets`**: This directory contains datasets used for the project.
 
 ## 🚀 Getting Started
 Follow these steps to explore the project:
