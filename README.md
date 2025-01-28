@@ -28,4 +28,4 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Data-Analysis-Project.git
+   https://github.com/vikasthamke/AtliQ-Hotels-Data-Analysis-Project/blob/main/Analysis.ipynb
